@@ -1,8 +1,4 @@
 import { createRouter, createWebHistory } from "vue-router";
-import HomeView from "../views/HomeView.vue";
-import AboutView from "../views/AboutView.vue";
-// import Pagina1 from "../views/Pagina1.vue";
-// import Pagina2 from "../views/Pagina2.vue";
 
 import Pagina1 from "../views/Pagina1.vue";
 import Pagina2 from "../views/Pagina2.vue";
